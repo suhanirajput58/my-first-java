@@ -1,2 +1,2 @@
-# my-first-java
-Java basics and practice programs
+# My First Java Project 
+ This repository contains my Java practice programs .
